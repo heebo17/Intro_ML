@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task_4", "Task_4.pyproj", "{1451AB71-2500-4C1D-9E04-4567EDC9BE6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{3431F602-0266-4887-9A34-0627D32B78AB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\task4_handout\food.zip = ..\..\..\Downloads\task4_handout\food.zip
+		..\..\..\Downloads\task4_handout\sample.txt = ..\..\..\Downloads\task4_handout\sample.txt
+		..\..\..\Downloads\task4_handout\test_triplets.txt = ..\..\..\Downloads\task4_handout\test_triplets.txt
+		..\..\..\Downloads\task4_handout\train_triplets.txt = ..\..\..\Downloads\task4_handout\train_triplets.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1451AB71-2500-4C1D-9E04-4567EDC9BE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1451AB71-2500-4C1D-9E04-4567EDC9BE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C7230D-0761-4980-8588-94005499385C}
+	EndGlobalSection
+EndGlobal
